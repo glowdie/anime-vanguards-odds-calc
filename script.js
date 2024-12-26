@@ -1,0 +1,7 @@
+function getRolls() {
+    
+}
+
+function getFailureRate() {
+    
+}
