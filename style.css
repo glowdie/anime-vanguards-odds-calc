@@ -1,0 +1,7 @@
+* {
+	text-align: center;
+}
+
+#glow :hover {
+	color: yellow;
+}
